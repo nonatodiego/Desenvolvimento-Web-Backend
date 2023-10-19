@@ -38,7 +38,7 @@ De acordo com a ISO/IEC/IEEE 42010, arquitetura de software pode ser definida co
     
     ### Arquitetura de um site dinâmico
     
-    [arquitetura-site-dinamico](../images/arquitetura-site-dinamico.png)
+    [arquitetura-site-dinamico](https://raw.githubusercontent.com/nonatodiego/Desenvolvimento-Web-Backend/main/images/arquitetura-site-dinamico.png)
     
 
 ## Estilos de Arquitetura
