@@ -45,3 +45,8 @@ De acordo com a ISO/IEC/IEEE 42010, arquitetura de software pode ser definida co
 
 - Uma arquitetura de software pode ser classificada segundo `estilos de arquitetura`, que são formas de organizar o sistema, conferindo assim determinado grau de uniformidade a ela
 - Um estilo é baseado em um `conjunto de padrões`, `modelos` e `recursos` que funcionam como elementos básicos para a construção do produto
+- A `arquitetura` de um sistema `pode aderir a um ou mais estilos arquiteturais`
+- Esses estilos podem `simplificar o problema` de definição da arquitetura do sistema
+- Cada estilo de arquitetura lida com `diferentes atributos de qualidade`
+
+## Características Arquiteturais - **`Aula`**
